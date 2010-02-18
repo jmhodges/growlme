@@ -42,7 +42,7 @@ except ImportError:
   md5_constructor = md5.new
 
 
-GROWL_PASSWORD = "growlsux123"
+GROWL_PASSWORD = "password"
 GROWL_UDP_PORT = 9887
 GROWL_PROTOCOL_VERSION = 1
 GROWL_TYPE_REGISTRATION = 0
